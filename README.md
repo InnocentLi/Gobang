@@ -98,7 +98,7 @@ js五子棋 canvas
                     }
                 }
                 oneStep(u, v, false);
-···
+```
 
 攻
 ```javascript
