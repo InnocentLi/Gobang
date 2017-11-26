@@ -114,4 +114,4 @@ js五子棋 canvas
                 }
                 oneStep(u, v, false);
 ···
-
+### 此五子棋算法是是记分制度算法
